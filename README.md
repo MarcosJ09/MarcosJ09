@@ -1,39 +1,52 @@
-<h1 align="center">Hello! 👋  i'm Marcos </h1> 
+<h1 align="center">Hello! 👋 I'm Marcos</h1>
 
 <p align="center">
-</a>
-<a href="https://www.linkedin.com/in/antonio-dev-b71146213/" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="@Anton-dev3306"/></a>
-<a href = "mailto:mgabrieljimenezg@gmail.com" target="_blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="@Anton-dev3306"  /></a>
-  </p>
+  <a href="https://www.linkedin.com/in/marcos-gabriel-jim%C3%A9nez-gonz%C3%A1lez-00a4b0417/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn de Marcos" />
+  </a>
+  <a href="mailto:mgabrieljimenezg@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail de Marcos" />
+  </a>
+</p>
+
 <br>
-<h1 align=center>About me 😃</h1>
-<!--Intro start-->
+
+<h2 align="center">About me 😃</h2>
 
 <div align="center">
- 🎓 Software Engineering Student
-💻 Software Development Student
-
-📫 Contact: **mgabrieljimenezg@gmail.com or LinkedIn**  
+  🎓 <b>Systems Engineering</b> student at UCAT & Software Development student.<br>
+  💻 Experience building responsive web interfaces with <b>HTML, CSS, and Bootstrap</b>.<br>
+  🌱 Currently focusing on <b>Backend & Full-Stack Development</b>.<br>
+  🚀 Actively leveling up my skills in <b>Node.js, PostgreSQL</b>, and pushing my <b>English to B2</b>.<br>
+  📫 <b>Contact:</b> <a href="mailto:mgabrieljimenezg@gmail.com">mgabrieljimenezg@gmail.com</a>
 </div>
-
 
 <br>
 
-<h1 align=center>Technologies👨🏻‍💻</h1>
-<!--tech stack icons-->
-<div align=center>
-   <h3>Frontend</h3>
+<h2 align="center">Technologies 👨🏻‍💻</h2>
+
+<div align="center">
+  <h3>Frontend</h3>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript&theme=light" />
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js&theme=light" alt="Frontend Stack" />
   </a>
-  <h3>Backend/Desktop</h3>
-   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,postman,mysql,&theme=light" />
+  
+  <h3>Backend & Databases</h3>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cs,nodejs,mysql,postgres&theme=light" alt="Backend Stack" />
+  </a>
+  
+  <h3>Tools</h3>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,postman&theme=light" alt="Tools" />
+  </a>
+</div>
 
-  </a>
-    <h3>Tools</h3>
-     <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,discord,linkedin&theme=light" />
-  </a>
-  </div>
+<br>
 
+<!-- Opcional: Tarjeta de estadísticas de GitHub -->
+<h2 align="center">GitHub Stats 📊</h2>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO_DE_GITHUB&show_icons=true&theme=transparent&hide_border=true&title_color=0077B5&icon_color=0077B5" alt="GitHub Stats" />
+</div>
