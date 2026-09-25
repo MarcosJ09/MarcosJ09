@@ -2,10 +2,10 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/marcos-gabriel-jim%C3%A9nez-gonz%C3%A1lez-00a4b0417/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn de Marcos" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Marcos LinkedIn" />
   </a>
   <a href="mailto:mgabrieljimenezg@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail de Marcos" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Marcos Gmail" />
   </a>
 </p>
 
@@ -50,19 +50,19 @@
   <tr>
     <td width="50%" valign="top">
       <h3>🏗️ Constructora V&H</h3>
-      <p>Sitio web para una empresa local de consultoría y construcción en Costa Rica especializada en bonos de vivienda.</p>
+      <p>Website for a local consulting and construction company in Costa Rica specializing in housing bonds.</p>
       <ul>
-        <li><b>Mi contribución:</b> Desarrollé la maquetación de la página de Servicios y garanticé la responsividad móvil (Mobile-First) de la sección de Preguntas Frecuentes.</li>
-        <li><b>Impacto:</b> Ayudó a la empresa a digitalizar y exponer claramente sus servicios a clientes reales.</li>
-        <li><b>Tecnologías:</b> HTML5, CSS3 (Flexbox & Grid).</li>
+        <li><b>My contribution:</b> I developed the entire Services page from scratch, including its complete responsive design, as well as the FAQ section.</li>
+        <li><b>Impact:</b> Helped the business digitize its presence and clearly communicate its services to real clients.</li>
+        <li><b>Technologies:</b> HTML5, CSS3 (Flexbox & Grid).</li>
       </ul>
     </td>
     <td width="50%" valign="top">
-      <h3>🛒 Diseño para Negocios Locales</h3>
-      <p>Propuestas de arquitectura de sitios y diseño web enfocadas en potenciar pequeños comercios.</p>
+      <h3>🛒 Local Retail Web Design</h3>
+      <p>Web architecture and design proposals for local retail businesses, such as sports stores.</p>
       <ul>
-        <li><b>Enfoque:</b> Creación de maquetaciones intuitivas y responsivas pensadas en la experiencia del usuario y exhibición de productos.</li>
-        <li><b>Tecnologías:</b> HTML, CSS, Diseño Responsivo.</li>
+        <li><b>Focus:</b> Creating intuitive, fully responsive layouts aimed at improving user experience and product display.</li>
+        <li><b>Technologies:</b> HTML, CSS, Responsive Design.</li>
       </ul>
     </td>
   </tr>
@@ -70,6 +70,7 @@
 
 <br>
 
+<!-- Optional: GitHub Stats Card -->
 <h2 align="center">GitHub Stats 📊</h2>
 
 <div align="center">
