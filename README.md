@@ -72,6 +72,7 @@
 
 
 <h2 align="center">GitHub Stats 📊</h2>
+<div algin=center>
 
   <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=MarcosJ09&layout=compact&theme=transparent&hide_border=true&title_color=0077B5&v=4" alt="Top Languages" />
   <br><br>
