@@ -70,9 +70,8 @@
 
 <br>
 
-<!-- Optional: GitHub Stats Card -->
 <h2 align="center">GitHub Stats 📊</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO_DE_GITHUB&show_icons=true&theme=transparent&hide_border=true&title_color=0077B5&icon_color=0077B5" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MarcosJ09&show_icons=true&theme=transparent&hide_border=true&title_color=0077B5&icon_color=0077B5" alt="GitHub Stats" />
 </div>
