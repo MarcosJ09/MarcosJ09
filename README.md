@@ -70,12 +70,13 @@
 
 <br>
 
+
 <h2 align="center">GitHub Stats 📊</h2>
 
 <div align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=MarcosJ09&show_icons=true&theme=transparent&hide_border=true&title_color=0077B5&icon_color=0077B5" alt="GitHub Stats" />
+  <img src="https://github-stats-extended.vercel.app/api?username=MarcosJ09&show_icons=true&theme=transparent&hide_border=true&title_color=0077B5&icon_color=0077B5&count_private=true&v=1" alt="GitHub Stats" />
   <br><br>
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=MarcosJ09&layout=compact&theme=transparent&hide_border=true&title_color=0077B5" alt="Top Languages" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=MarcosJ09&layout=compact&theme=transparent&hide_border=true&title_color=0077B5&v=1" alt="Top Languages" />
   <br><br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MarcosJ09&theme=transparent&hide_border=true&title_color=0077B5&text_color=515457&icon_color=0077B5" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MarcosJ09&theme=transparent&hide_border=true&title_color=0077B5&text_color=515457&icon_color=0077B5&v=1" alt="GitHub Streak" />
 </div>
