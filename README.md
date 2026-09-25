@@ -70,11 +70,10 @@
 
 <br>
 
-
 <h2 align="center">GitHub Stats 📊</h2>
-<div algin=center>
 
+<div align="center">
   <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=MarcosJ09&layout=compact&theme=transparent&hide_border=true&title_color=0077B5&v=4" alt="Top Languages" />
   <br><br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MarcosJ09&theme=transparent&hide_border=true&title_color=0077B5&text_color=515457&icon_color=0077B5&v=3" alt="GitHub Streak" />
-</div> 
+</div>
