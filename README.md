@@ -44,7 +44,32 @@
 
 <br>
 
-<!-- Opcional: Tarjeta de estadísticas de GitHub -->
+<h2 align="center">Featured Projects 🚀</h2>
+
+<table align="center" width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🏗️ Constructora V&H</h3>
+      <p>Sitio web para una empresa local de consultoría y construcción en Costa Rica especializada en bonos de vivienda.</p>
+      <ul>
+        <li><b>Mi contribución:</b> Desarrollé la maquetación de la página de Servicios y garanticé la responsividad móvil (Mobile-First) de la sección de Preguntas Frecuentes.</li>
+        <li><b>Impacto:</b> Ayudó a la empresa a digitalizar y exponer claramente sus servicios a clientes reales.</li>
+        <li><b>Tecnologías:</b> HTML5, CSS3 (Flexbox & Grid).</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🛒 Diseño para Negocios Locales</h3>
+      <p>Propuestas de arquitectura de sitios y diseño web enfocadas en potenciar pequeños comercios.</p>
+      <ul>
+        <li><b>Enfoque:</b> Creación de maquetaciones intuitivas y responsivas pensadas en la experiencia del usuario y exhibición de productos.</li>
+        <li><b>Tecnologías:</b> HTML, CSS, Diseño Responsivo.</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+<br>
+
 <h2 align="center">GitHub Stats 📊</h2>
 
 <div align="center">
